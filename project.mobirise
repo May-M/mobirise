@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Commission Information.html",
+    "currentPage": "About.html",
     "name": "May Maya",
     "theme": {
       "name": "mobirise3",
@@ -20,12 +20,10 @@
         "isScrollToTopButton": true,
         "isRtl": false
       },
-      "additionalSetColors": [
-        "#282828"
-      ]
+      "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 50,
+    "uniqCompNum": 46,
     "versionPublish": "4.8.6",
     "favicon": "",
     "noImageResize": "",
@@ -405,11 +403,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-05-15-at-11-1400x1492.png",
+              "src": "@PROJECT_PATH@/assets/images/staples-scan-1400x2942.png",
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
