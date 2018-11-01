@@ -872,8 +872,8 @@
           ],
           "_name": "gallery1",
           "_params": {
-            "showBullets": true,
-            "fullWidth": true,
+            "showBullets": false,
+            "fullWidth": false,
             "spacing": "1",
             "paddingTop": "2",
             "paddingBottom": "0",
@@ -947,10 +947,12 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/happybirthred1-2000x1720-800x688.png",
-                "image": "@PROJECT_PATH@/assets/images/happybirthred1-2000x1720.png",
+                "thumb": "@PROJECT_PATH@/assets/images/cherry-quartz1-661x723-661x723.png",
+                "image": "@PROJECT_PATH@/assets/images/cherry-quartz1-661x723.png",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "alt": "",
+                "title": ""
               },
               {
                 "tags": "Animated",
@@ -977,20 +979,24 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bat-jaspearl1-2000x1442-800x576.png",
-                "image": "@PROJECT_PATH@/assets/images/bat-jaspearl1-2000x1442.png",
+                "thumb": "@PROJECT_PATH@/assets/images/red-jasper1-759x771-759x771.png",
+                "image": "@PROJECT_PATH@/assets/images/red-jasper1-759x771.png",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "alt": "",
+                "title": ""
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/su-may1-2000x2463-800x985.png",
-                "image": "@PROJECT_PATH@/assets/images/su-may1-2000x2463.png",
+                "thumb": "@PROJECT_PATH@/assets/images/bellow1-1440x781-800x434.png",
+                "image": "@PROJECT_PATH@/assets/images/bellow1-1440x781.png",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "alt": "",
+                "title": ""
               },
               {
                 "tags": "Animated",
@@ -1027,20 +1033,24 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/werewolf-jasp1-2000x1094-800x437.png",
-                "image": "@PROJECT_PATH@/assets/images/werewolf-jasp1-2000x1094.png",
+                "thumb": "@PROJECT_PATH@/assets/images/bellowday4-1440x783-800x435.png",
+                "image": "@PROJECT_PATH@/assets/images/bellowday4-1440x783.png",
                 "caption": "Type caption here",
-                "active": false
+                "active": true,
+                "alt": "",
+                "title": ""
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/monokuma1-2000x3645-800x1458.png",
-                "image": "@PROJECT_PATH@/assets/images/monokuma1-2000x3645.png",
+                "thumb": "@PROJECT_PATH@/assets/images/my-starlight-778x1440-778x1440.png",
+                "image": "@PROJECT_PATH@/assets/images/my-starlight-778x1440.png",
                 "caption": "Type caption here",
-                "active": false
+                "active": true,
+                "alt": "",
+                "title": ""
               },
               {
                 "tags": "Animated",
@@ -1080,7 +1090,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/ame-800x533.png",
                 "image": "@PROJECT_PATH@/assets/images/ame.gif",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
