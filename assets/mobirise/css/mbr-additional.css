@@ -485,6 +485,9 @@ h6,
   font-size: 100px;
   text-align: center;
 }
+#header1-1 .mbr-section-lead {
+  color: #faaf40;
+}
 #footer1-2 P {
   text-align: right;
 }
