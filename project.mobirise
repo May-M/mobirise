@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 52,
+    "uniqCompNum": 46,
     "versionPublish": "4.8.6",
     "favicon": "",
     "noImageResize": "",
@@ -872,7 +872,7 @@
           ],
           "_name": "gallery1",
           "_params": {
-            "showBullets": false,
+            "showBullets": true,
             "fullWidth": false,
             "spacing": "1",
             "paddingTop": "2",
@@ -897,16 +897,6 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sesame-jasper-corrupted-doggo2-2000x1090-800x436.png",
-                "image": "@PROJECT_PATH@/assets/images/sesame-jasper-corrupted-doggo2-2000x1090.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/kyon-turian-2000x1703-800x681.png",
                 "image": "@PROJECT_PATH@/assets/images/kyon-turian-2000x1703.png",
                 "caption": "Type caption here",
@@ -917,10 +907,12 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mae2-2000x2182-800x872.png",
-                "image": "@PROJECT_PATH@/assets/images/mae2-2000x2182.png",
+                "thumb": "@PROJECT_PATH@/assets/images/print5-2000x3091-800x1236.png",
+                "image": "@PROJECT_PATH@/assets/images/print5-2000x3091.png",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "alt": "",
+                "title": ""
               },
               {
                 "tags": "Animated",
@@ -991,6 +983,18 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/book002-2000x1544-800x618.png",
+                "image": "@PROJECT_PATH@/assets/images/book002-2000x1544.png",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/bellow1-1440x781-800x434.png",
                 "image": "@PROJECT_PATH@/assets/images/bellow1-1440x781.png",
                 "caption": "Type caption here",
@@ -1006,27 +1010,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/gakup-saint1-2000x2106-800x842.png",
                 "image": "@PROJECT_PATH@/assets/images/gakup-saint1-2000x2106.png",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jasperpup2-2000x1389-800x555.png",
-                "image": "@PROJECT_PATH@/assets/images/jasperpup2-2000x1389.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jaspal1-2000x3664-800x1465.png",
-                "image": "@PROJECT_PATH@/assets/images/jaspal1-2000x3664.png",
-                "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -1036,7 +1020,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/bellowday4-1440x783-800x435.png",
                 "image": "@PROJECT_PATH@/assets/images/bellowday4-1440x783.png",
                 "caption": "Type caption here",
-                "active": true,
+                "active": false,
                 "alt": "",
                 "title": ""
               },
@@ -1048,7 +1032,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/my-starlight-778x1440-778x1440.png",
                 "image": "@PROJECT_PATH@/assets/images/my-starlight-778x1440.png",
                 "caption": "Type caption here",
-                "active": true,
+                "active": false,
                 "alt": "",
                 "title": ""
               },
@@ -1057,8 +1041,20 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mysterygalxpearl1-2000x4186-800x1674.png",
-                "image": "@PROJECT_PATH@/assets/images/mysterygalxpearl1-2000x4186.png",
+                "thumb": "@PROJECT_PATH@/assets/images/bella-2000x1545-800x618.png",
+                "image": "@PROJECT_PATH@/assets/images/bella-2000x1545.png",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/requestt106-copy-2000x2102-800x840.png",
+                "image": "@PROJECT_PATH@/assets/images/requestt106-copy-2000x2102.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1067,20 +1063,12 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fusion2-2000x3654-800x1461.png",
-                "image": "@PROJECT_PATH@/assets/images/fusion2-2000x3654.png",
+                "thumb": "@PROJECT_PATH@/assets/images/maymaya-myart-2000x1616-800x646.png",
+                "image": "@PROJECT_PATH@/assets/images/maymaya-myart-2000x1616.png",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/allthatmattersssss-800x500.png",
-                "image": "@PROJECT_PATH@/assets/images/allthatmattersssss.gif",
-                "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "alt": "",
+                "title": ""
               },
               {
                 "tags": "Animated",
@@ -1090,7 +1078,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/ame-800x533.png",
                 "image": "@PROJECT_PATH@/assets/images/ame.gif",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -1107,10 +1095,12 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/requestt106-copy-2000x2102-800x840.png",
-                "image": "@PROJECT_PATH@/assets/images/requestt106-copy-2000x2102.png",
+                "thumb": "@PROJECT_PATH@/assets/images/book006-2000x1544-800x618.png",
+                "image": "@PROJECT_PATH@/assets/images/book006-2000x1544.png",
                 "caption": "Type caption here",
-                "active": false
+                "active": true,
+                "alt": "",
+                "title": ""
               }
             ]
           },
