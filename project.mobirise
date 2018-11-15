@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Portfolio.html",
+    "currentPage": "Illustrations.html",
     "name": "May Maya",
     "theme": {
       "name": "mobirise3",
@@ -981,7 +981,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/nitw-furry-may1-2000x1890-800x756.png",
                 "image": "@PROJECT_PATH@/assets/images/nitw-furry-may1-2000x1890.png",
-                "caption": "Type caption here",
+                "caption": "Digital Drawing<br>",
                 "active": false
               },
               {
@@ -1186,7 +1186,12 @@
           },
           "_anchor": "gallery1-l",
           "articleLayout": false,
-          "allItem": "All"
+          "allItem": "All",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "font-size": "10px"
+            }
+          }
         },
         {
           "_tags": [
@@ -1209,7 +1214,7 @@
             "video": {
               "src": "https://vimeo.com/208234725",
               "autoplay": false,
-              "loop": false,
+              "loop": "on",
               "active": true
             }
           },
@@ -1239,7 +1244,7 @@
             "video": {
               "src": "https://vimeo.com/206144199",
               "autoplay": false,
-              "loop": false,
+              "loop": "on",
               "active": true
             }
           },

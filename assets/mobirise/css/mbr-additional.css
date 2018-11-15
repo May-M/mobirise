@@ -801,6 +801,9 @@ h6,
 #footer1-f P {
   text-align: right;
 }
+#gallery1-l .mbr-gallery-item > div > span {
+  font-size: 10px;
+}
 #image1-w DIV {
   font-size: 48px;
   font-family: 'Raleway', sans-serif;
