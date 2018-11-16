@@ -1053,8 +1053,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/luka-megurine1-1-2000x3008-800x1153.png",
-                "image": "@PROJECT_PATH@/assets/images/luka-megurine1-1-2000x3008.png",
+                "thumb": "@PROJECT_PATH@/assets/images/luka-megurine1-2-2000x3008-800x1153.png",
+                "image": "@PROJECT_PATH@/assets/images/luka-megurine1-2-2000x3008.png",
                 "caption": "Type caption here",
                 "active": true,
                 "alt": "",
@@ -1223,7 +1223,7 @@
           "_params": {
             "showText": true
           },
-          "text": "I am Exhausted"
+          "text": "30 Seconds Animation"
         },
         {
           "_tags": [
