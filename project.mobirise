@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Portfolio.html",
+    "currentPage": "Illustrations.html",
     "name": "May Maya",
     "theme": {
       "name": "mobirise3",
@@ -1053,10 +1053,12 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/luka-megurine1-2000x3008-800x1203.png",
-                "image": "@PROJECT_PATH@/assets/images/luka-megurine1-2000x3008.png",
+                "thumb": "@PROJECT_PATH@/assets/images/luka-megurine1-1-2000x3008-800x1153.png",
+                "image": "@PROJECT_PATH@/assets/images/luka-megurine1-1-2000x3008.png",
                 "caption": "Type caption here",
-                "active": false
+                "active": true,
+                "alt": "",
+                "title": ""
               },
               {
                 "tags": "Animated",
@@ -1180,7 +1182,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/rose-800x533.png",
                 "image": "@PROJECT_PATH@/assets/images/rose....i-miss-you.....gif",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           },
