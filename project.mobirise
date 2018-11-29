@@ -1043,10 +1043,12 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/okami1-2000x1662-800x664.png",
-                "image": "@PROJECT_PATH@/assets/images/okami1-2000x1662.png",
+                "thumb": "@PROJECT_PATH@/assets/images/chippy-507x502-507x502.png",
+                "image": "@PROJECT_PATH@/assets/images/chippy-507x502.png",
                 "caption": "Type caption here",
-                "active": false
+                "active": true,
+                "alt": "",
+                "title": ""
               },
               {
                 "tags": "Animated",
@@ -1068,7 +1070,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/catra1-701x664-701x664.png",
                 "image": "@PROJECT_PATH@/assets/images/catra1-701x664.png",
                 "caption": "Type caption here",
-                "active": true,
+                "active": false,
                 "alt": "",
                 "title": ""
               },
