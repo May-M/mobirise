@@ -991,10 +991,12 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/kyon-turian-2000x1703-800x681.png",
-                "image": "@PROJECT_PATH@/assets/images/kyon-turian-2000x1703.png",
+                "thumb": "@PROJECT_PATH@/assets/images/reaper-592x505-592x505.png",
+                "image": "@PROJECT_PATH@/assets/images/reaper-592x505.png",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "alt": "",
+                "title": ""
               },
               {
                 "tags": "Animated",
@@ -1026,7 +1028,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tabu-tabu-jaspy1-834x781-800x749.png",
                 "image": "@PROJECT_PATH@/assets/images/tabu-tabu-jaspy1-834x781.png",
                 "caption": "Type caption here",
-                "active": true,
+                "active": false,
                 "alt": "",
                 "title": ""
               },
@@ -1185,10 +1187,12 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/rose-800x533.png",
-                "image": "@PROJECT_PATH@/assets/images/rose....i-miss-you.....gif",
+                "thumb": "@PROJECT_PATH@/assets/images/soldier76-827x771-800x746.png",
+                "image": "@PROJECT_PATH@/assets/images/soldier76-827x771.png",
                 "caption": "Type caption here",
-                "active": false
+                "active": true,
+                "alt": "",
+                "title": ""
               }
             ]
           },
