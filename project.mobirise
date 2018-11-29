@@ -979,10 +979,12 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/nitw-furry-may1-2000x1890-800x756.png",
-                "image": "@PROJECT_PATH@/assets/images/nitw-furry-may1-2000x1890.png",
+                "thumb": "@PROJECT_PATH@/assets/images/scorpia1-622x635-622x635.png",
+                "image": "@PROJECT_PATH@/assets/images/scorpia1-622x635.png",
                 "caption": "Digital Drawing<br>",
-                "active": false
+                "active": true,
+                "alt": "",
+                "title": ""
               },
               {
                 "tags": "Animated",
@@ -1046,7 +1048,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/chippy-507x502-507x502.png",
                 "image": "@PROJECT_PATH@/assets/images/chippy-507x502.png",
                 "caption": "Type caption here",
-                "active": true,
+                "active": false,
                 "alt": "",
                 "title": ""
               },
