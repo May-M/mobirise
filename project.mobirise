@@ -141,8 +141,8 @@
               "color": "#faaf40"
             },
             ".mbr-section-title SPAN": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
               "font-size": "100px",
               "text-align": "center"
             },
@@ -153,7 +153,7 @@
           "_anchor": "header1-1",
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": false,
             "showArrow": false,
             "contentAlign": "center",
@@ -171,7 +171,7 @@
             "overlayOpacity": 0.5
           },
           "title": "<span style=\"font-weight: normal;\">May Maya</span>",
-          "text": "Portfolio",
+          "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Welcome</a>   "
         },
         {
@@ -708,13 +708,13 @@
         },
         {
           "_params": {
-            "autoplay": true,
+            "autoplay": false,
             "fullScreen": false,
             "paddingTop": "2",
             "paddingBottom": "3",
             "showBullets": false,
             "bgColor": "#000000",
-            "timeout": "7",
+            "timeout": "1",
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/nnew6-page-portfolio-new-2000x1545.png",
@@ -1234,36 +1234,6 @@
             "showText": true
           },
           "text": "30 Seconds Animation"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_styles": {
-            "DIV": {
-              "font-size": "48px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          },
-          "_anchor": "image1-x",
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
-            },
-            "video": {
-              "src": "https://vimeo.com/206144199",
-              "autoplay": false,
-              "loop": "on",
-              "active": true
-            }
-          },
-          "_params": {
-            "showText": true
-          },
-          "text": "Ten Seconds Animation"
         }
       ]
     }
