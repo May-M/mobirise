@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "MayxWolf.html",
+    "currentPage": "Portfolio.html",
     "name": "May Maya",
     "theme": {
       "name": "mobirise3",
@@ -716,11 +716,11 @@
             "paddingBottom": "3",
             "showBullets": false,
             "bgColor": "#000000",
-            "timeout": "1",
+            "timeout": "7",
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/nnew6-page-portfolio-new-2000x1545.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -748,7 +748,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/nnew6-page-portfolio-new3-2000x1545.png",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
