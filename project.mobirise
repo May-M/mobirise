@@ -24,7 +24,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 46,
-    "versionPublish": "5.0.16",
+    "versionPublish": "5.2.0",
     "favicon": "",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
@@ -196,7 +196,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020"
+          "text": "Copyright (c) 2021"
         }
       ]
     },
@@ -320,7 +320,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020"
+          "text": "Copyright (c) 2021"
         },
         {
           "_tags": [
@@ -423,7 +423,7 @@
             }
           },
           "title": "May Lynn Maya",
-          "text": "Born and raised in Queens, New York.<br><br>Twenty-five years old.<br><br>Graduated from Queensborough Community College <br>in 2016 for her Associate's degree.<br><br>Graduated from Queens College in 2019 for her Bachelor's degree.&nbsp;<br>",
+          "text": "Born and raised in Queens, New York.<br><br>Twenty-six years old.<br><br>Graduated from Queensborough Community College <br>in 2016 for her Associate's degree.<br><br>Graduated from Queens College in 2019 for her Bachelor's degree.&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         }
       ]
@@ -545,7 +545,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020"
+          "text": "Copyright (c) 2021"
         },
         {
           "_inherit": "header1",
@@ -584,7 +584,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Commission Info",
-          "text": "Each price is different, please look down below<br>- Sketch/Doodle Drawing/Line Art:<br>Headshot Colored will be $5<br>Colored Full Body will be $10 ( + characters will will be $2 extra)<br><br>Flat Colors:<br>Headshot will be $10<br>Waist up will be $15&nbsp; ( + characters will will be $3 extra)<br>Full Body will be $20 ( + characters will will be $5 extra)<br><br>Full colored and Shaded:<br>Headshot will be $15<br>Waist up will be $20<br>Full Body will be $20 ( + characters will will be $10 extra)<br><br>If you want to ask questions, feel free to contact me on gmail: kyonwolf@gmail.com<br><br>",
+          "text": "Each price is different, please look down below<br>- Sketch/Doodle Drawing/Line Art:<br>Headshot Colored will be $15<br>Colored Full Body will be $20 ( + characters will will be $2 extra)<br><br>Flat Colors:<br>Headshot will be $13<br>Waist up will be $20&nbsp; ( + characters will will be $3 extra)<br>Full Body will be $30 ( + characters will will be $5 extra)<br><br>Full colored and Shaded:<br>Headshot will be $30<br>Waist up will be $50<br>Full Body will be $60 ( + characters will will be $10 extra)<br><br>If you want to ask questions, feel free to contact me on gmail: kyonwolf@gmail.com<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>"
         }
       ]
@@ -705,7 +705,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020",
+          "text": "Copyright (c) 2021",
           "_anchor": "footer1-1b"
         },
         {
@@ -958,7 +958,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020"
+          "text": "Copyright (c) 2021"
         },
         {
           "_tags": [
@@ -1239,6 +1239,18 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/cap-grad1-1440x771-800x428.jpg",
                 "image": "@PROJECT_PATH@/assets/images/cap-grad1-1440x771.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/26-2000x2134-800x854.png",
+                "image": "@PROJECT_PATH@/assets/images/26-2000x2134.png",
                 "caption": "Type caption here",
                 "active": false,
                 "alt": "",
